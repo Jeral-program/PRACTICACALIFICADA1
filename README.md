@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Captura 1
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%201.pnghttps://github.com/Jeral-program/imagenes/blob/master/Captura%20de%20pantalla%201.png)
+- (https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%201.png)
 
 ## Captura 2
 
