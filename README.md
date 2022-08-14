@@ -8,12 +8,12 @@ A new Flutter project.
 
 ## Captura 2
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%202.png)
+- ![](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%202.png)
 
 ## Captura 3
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%203.png)
+- ![](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%203.png)
 
 ## Captura 4
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%204.png)
+- ![](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%204.png)
