@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Captura 1
 
-This project is a starting point for a Flutter application.
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%201.pnghttps://github.com/Jeral-program/imagenes/blob/master/Captura%20de%20pantalla%201.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Captura 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%202.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Captura 3
+
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%203.png)
+
+## Captura 4
+
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/Jeral-program/imagenes/master/Captura%20de%20pantalla%204.png)
